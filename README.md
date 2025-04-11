@@ -1,6 +1,6 @@
 # 🧠 Bittensor Mining Docs
 
-Welcome to the **Bittensor Mining Docs** repository! This collection of guides is designed to help you get started with mining and contributing to the **Bittensor decentralized machine learning network**, from setting up your environment to launching your miner on various subnets — like [OpenKaito](https://www.kaito.ai/).
+Welcome to the **Bittensor Mining Docs** repository! This collection of guides is designed to help you get started with mining and contributing to the **Bittensor decentralized machine learning network**, from setting up your environment to launching your miner on various subnets.
 
 ---
 
